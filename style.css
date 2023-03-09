@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    width: 366px;
+    height: 415px;
+    text-align: center;
+    margin: 200px auto;
+    background: #faf4ef;
+    border-radius: 0px 0px 0px 50px;
+}
+.text{
+    font-weight: 600;
+    font-size: 25px;
+    padding-top: 50px;
+    padding-right: 160px;
+    color: #4b4b4b;
+}
+.price{
+    font-weight: 500;
+    font-size: 18px;
+    padding-right: 240px;
+    color: #737373;
+}
+.photo{
+    width: 329px;
+    height: 329px;
+    margin-right: 20px;
+    margin-top: 5px;
+}
